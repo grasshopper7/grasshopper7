@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?grasshopper7)
+
 <!--
 **grasshopper7/grasshopper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
