@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-![views](https://komarev.com/ghpvc/?username=grasshopper7&color=brightgreen)
--->
+
+![views](https://komarev.com/ghpvc/?username=grasshopper7&color=blue)
+
 
 <!--
 **grasshopper7/grasshopper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
