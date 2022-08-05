@@ -3,7 +3,8 @@
 
 ![views](https://komarev.com/ghpvc/?username=grasshopper7&color=blue)
 
-💬 Ask me about ... [email](mailto:grass.hopper.moc@gmail.com)
+- 🔭 I’m currently learning Playwright
+- 💬 Reach me at [email](mailto:grass.hopper.moc@gmail.com)
 
 <!--
 **grasshopper7/grasshopper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
