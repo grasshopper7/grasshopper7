@@ -4,7 +4,8 @@
 ![views](https://komarev.com/ghpvc/?username=grasshopper7&color=blue)
 
 - I’m currently learning Playwright
-- Visit and leave a comment on my [blog](https://ghchirp.online)
+- Ask me about Selenium, Cucumber, Extent Reports
+- Visit and leave a comment on my [tech blog](https://ghchirp.online)
 - Reach me at my [email](mailto:grass.hopper.moc@gmail.com)
 
 <!--
