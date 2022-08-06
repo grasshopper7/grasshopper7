@@ -1,7 +1,8 @@
 ### Hello World! 👋
 
-
+<!--
 ![views](https://komarev.com/ghpvc/?username=grasshopper7&color=blue)
+-->
 
 - I’m currently learning Playwright
 - Ask me about Selenium, Cucumber, Extent Reports
