@@ -8,7 +8,7 @@
 - Ask me about Selenium, Cucumber, Rest Assured, Extent Reports
 - Looking for automation testing jobs or consulting opportunities
 - Visit and leave a comment on my [tech blog](https://ghchirp.online)
-- Reach me at my [email](mailto:grass.hopper.moc@gmail.com)
+- Reach me at my [email](mailto:grass.hopper.moc@gmail.com) [grass.hopper.moc@gmail.com]
 
 <!--
 **grasshopper7/grasshopper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
