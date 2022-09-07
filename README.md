@@ -10,10 +10,10 @@
 - Visit and leave a comment on my [tech blog](https://ghchirp.online)
 - Reach me at my [email](mailto:grass.hopper.moc@gmail.com) [grass.hopper.moc@gmail.com]
 
-
+<!--
 ![views](https://komarev.com/ghpvc/?username=grasshopper7&color=blue)
 **grasshopper7/grasshopper7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
