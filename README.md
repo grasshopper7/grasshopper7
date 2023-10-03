@@ -7,7 +7,7 @@
 - I’m currently learning Playwright
 - Ask me about Selenium, Cucumber, Rest Assured, Extent Reports
 - Looking for automation testing jobs or consulting opportunities
-- Visit and leave a comment on my [tech blog](https://ghchirp.online)
+- Visit and leave a comment on my [tech blog](https://ghchirp.site)
 - Reach me at my [email](mailto:grass.hopper.moc@gmail.com) [grass.hopper.moc@gmail.com]
 
 <!--
